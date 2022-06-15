@@ -2,7 +2,7 @@
 
 body{
     height: 100%;
-    background-image: url(/images/bg-intro-desktop.png);
+    background-image: url(images/bg-intro-desktop.png);
     background-color: hsl(0, 100%, 74%);
     background-position: center;
     background-size: cover;
@@ -88,7 +88,7 @@ input:focus{
 }
 input:focus:invalid{
     border-color: hsl(0, 100%, 74%);
-    background-image: url(/images/icon-error.svg);
+    background-image: url(images/icon-error.svg);
     background-repeat:no-repeat;
     background-size:25px;
     background-position: right;
@@ -99,7 +99,7 @@ input:focus:invalid{
 
     body{
         height: 100%;
-        background-image: url(/images/bg-intro-mobile.png);
+        background-image: url(images/bg-intro-mobile.png);
         background-color: hsl(0, 100%, 74%);
         background-position: center;
         background-size: cover;
